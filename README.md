@@ -16,7 +16,7 @@ $$Business\ Valuation\ Metrics \leftarrow Operating\ KPIs \leftarrow Information
 When metrics are standardized and meaningful, they become the "North Star" for all operating activities, ensuring that every system and process is engineered for maximum efficiency and value creation.
 
 ## Origin of the Standards
-The definitions and equations housed in this repository are derived from the [foundational work}(https://www.saasmetricsboard.com/standards) established by the SaaS Metrics Standards Board. The goal of this project is to provide a collaborative space where the global GTM community can contribute to, refine, and build code-based implementations (SQL/dbt) for a common schema.
+The definitions and equations housed in this repository are derived from the [foundational work](https://www.saasmetricsboard.com/standards) established by the SaaS Metrics Standards Board. The goal of this project is to provide a collaborative space where the global GTM community can contribute to, refine, and build code-based implementations (SQL/dbt) for a common schema.
 
 ## Important Notes & Disclaimers
 **Authorization.** This repository is an independent project and is being created without formal authorization from the SaaS Metrics Standards Board. It is intended as a community-driven extension of their published work.
